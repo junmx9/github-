@@ -110,7 +110,7 @@ if __name__ == "__main__":
 以上几种方式
 
 ##文件中的各种编辑
-[文件位置截图](![Uploading image.png…]()
+[文件位置截图](![image](https://github.com/user-attachments/assets/dea257bb-f671-43b6-bf01-f7cf0ef40354)
 ) 文件这里可以创建许多东西，我们可以再创建一个.md
 
 并且之间可以使用超链接来关联
@@ -123,3 +123,10 @@ if __name__ == "__main__":
 可以手动创建一个 package.json 文件，或者使用 npm init 命令生成一个：  
 npm init  
 生成的 package.json 文件中可以包含所有项目依赖：
+
+使用GitHub Pages
+GitHub Pages是一项免费服务，可以将你的仓库内容托管为静态网站，非常适合用来发布博客、文档或个人网站。
+[创建pages](![image](https://github.com/user-attachments/assets/1622412e-970f-4465-ae13-a3c3fe1f2d6c)
+)  找到设置
+再找到[pages](![Uploading image.png…]()
+)
