@@ -15,8 +15,9 @@
 使用\\\可以让这些符号（语法）不起作用
 
 插入图片和链接
-[这是一个图片]![Uploading image.png…]()  
+[这是一个图片]![image](https://github.com/user-attachments/assets/6857d9ff-6a74-4d62-897c-f8e7ab51ff70)  
 这里的[]是名称()是地址
+ 地址直接复制网址或者粘贴图片即可
 
 [这是一个链接](https://www.example.com)
 
@@ -92,6 +93,7 @@
 
 安装依赖
 \npm install
+npm install <依赖名称>
 
 使用方法的实例
 def main():
@@ -107,4 +109,17 @@ if __name__ == "__main__":
 
 以上几种方式
 
+##文件中的各种编辑
+[文件位置截图](![Uploading image.png…]()
+) 文件这里可以创建许多东西，我们可以再创建一个.md
 
+并且之间可以使用超链接来关联
+
+
+使用 package.json 管理依赖
+通常，我们会在 package.json 文件中定义项目所需的所有依赖，然后用户只需运行 npm install 就能一次性安装所有依赖。
+
+创建或编辑 package.json
+可以手动创建一个 package.json 文件，或者使用 npm init 命令生成一个：  
+npm init  
+生成的 package.json 文件中可以包含所有项目依赖：
