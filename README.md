@@ -15,7 +15,9 @@
 使用\\\可以让这些符号（语法）不起作用
 
 插入图片和链接
-[这是一个图片]![Uploading image.png…]()
+[这是一个图片]![Uploading image.png…]()  
+这里的[]是名称()是地址
+
 [这是一个链接](https://www.example.com)
 
 无序列表：
